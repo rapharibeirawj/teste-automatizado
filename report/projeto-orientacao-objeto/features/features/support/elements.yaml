@@ -1,0 +1,21 @@
+#acesso a pagina de login
+acessoAhome: "http://automationpractice.com/index.php"
+
+#elemento pag login
+botaoLogin: ".login"
+
+#botoes e campos da pagina de autenticacao
+botaoAutenticacao: "#SubmitLogin"
+campoEmail: "#email"
+campoSenha: "#passwd"
+
+#botoes para prosseguir checkout
+botaoCheckout: "a[title='Proceed to checkout']"
+botaoCheckoutlogado: "button[name='processAddress']"
+botaoCheckbox: ".checker"
+botaoCheckoutlogado1: "button[name='processCarrier']"
+botaoMetodopagamento: ".bankwire"
+
+
+#botoes do carrinho
+botaoCarrinho: ".exclusive"
